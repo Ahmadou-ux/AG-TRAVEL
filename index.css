@@ -1,0 +1,138 @@
+
+
+.imenu{
+    display: inline-block;
+
+}
+
+.menu{
+    text-decoration: none;
+    padding: 8px 60px;
+    color:black;
+    border:solid;
+    border-bottom-width:0px;
+    border-top-width:0px ;
+    border-right-width:0px;
+    border-left-color: black;
+    letter-spacing: 2px;
+    font-size: 20px;
+   
+}
+    
+ ul li img{
+     float: left;
+    width: 150px;
+    height: 80px;
+    padding-bottom: 10px;
+    background-color: transparent;
+} 
+main {
+    background-image:url(./main_gen_history_africa.jpg);
+    height: 507px;
+    background-size:cover;
+    background-position:center ;
+    background-repeat:no-repeat;
+    margin-right: -8px;
+    margin-left: -8px;
+
+}
+
+h1{
+    position: absolute;
+    top: 36%;
+    left: 35%;
+    color: honeydew;
+    font-family: fantasy;
+    background-color:transparent ;
+
+}
+ul{
+    padding-bottom: 1px;
+}
+
+*{
+    font-family: sans-serif;
+}
+.destinationGauche1{
+    position:absolute;
+    top: 600px;
+    margin-bottom: 2px;
+    
+    
+}
+
+.destinationGauche2{
+    position:absolute;
+    top: 1150px;
+}
+.destinationDroite1{
+    position: relative;
+    float: right;
+    top: 263px;
+}
+.destinationDroite2{
+    position: absolute;
+    top: 575px;
+    left: 324px;
+}
+
+.textGauche1{
+    position:absolute;
+}
+.textGauche2{
+    position:relative;
+}
+.textGauche3{
+    position: relative;
+    top: 1260px;
+}
+.textDroite1{
+    position: absolute;
+    float: right;
+    top: 670px;
+}
+.textDroite2{
+    position: relative;
+    top: 1000px;
+    left: 330px;
+   
+}
+.destinationGauche3{
+    position:absolute;
+    float: left;
+    top: 850px;;
+}
+.FIN {
+    position: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #45a1ff;
+    color: #fff;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -16px;
+}
+.CONTACT{
+    padding: 100px;
+    background-color: #e2cd13;
+    color: #fff;
+    margin-left: -8px;
+    margin-right: -8px;
+   margin-top: 1640px;
+   display: block;
+}
+a:hover {
+    color: #45a1ff;
+  }
+  .FOOT{
+      
+      margin-right: 100px;
+  }
+  .main{
+    border: solid;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    margin-left: -9px;
+    margin-right: -9px;
+}
